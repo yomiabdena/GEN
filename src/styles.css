@@ -47,7 +47,7 @@
   --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
 }
 
-/* ─── Light Mode: Pure White & White Grey with Dark Charcoal Accents ─── */
+/* ─── Light Mode: Full White & White Grey with Dark Charcoal Accents ─── */
 .light,
 :root[data-theme="light"] {
   --bg-main: #ffffff;
